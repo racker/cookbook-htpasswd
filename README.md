@@ -1,4 +1,3 @@
-cookbook-htpasswd
-=================
+# cookbook-htpasswd
 
-Chef Cookbook for Generating a  htpasswd file
+Chef cookbook for writing out a htpasswd file
